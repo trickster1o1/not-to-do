@@ -37,6 +37,17 @@ dependencies:
   localstorage: ^3.0.6
   flutter_launcher_icons: ^0.10.0
   flutter_spinkit: ^5.1.0
+  http: ^0.13.4
+  geolocator: ^6.2.1
+  geocoding: ^1.0.5
+  flutter_native_splash: ^2.2.9
+
+flutter_native_splash:
+  color: "#999999"
+  image: assets/logo.png
+  android_12:
+    color: "#999999"
+    image: assets/logo.png
 
 flutter_icons:
   android: true
